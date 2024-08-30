@@ -1,0 +1,22 @@
+{
+  "name": "sample-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "mern",
+    "backend",
+    "express",
+    "jwt",
+    "mongo"
+  ],
+  "author": "Hassan Imran",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
